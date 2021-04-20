@@ -3,6 +3,10 @@ package Sort_Iterraciones;
 import java.util.Random;
 import java.util.ArrayList;
 
+//ALAN ALBERTO GÓMEZ GÓMEZ  203429
+//GABRIEL RAMÓN CUPIL 203424
+//STEVEN DE JESÚS PADILLA GUTIÉRREZ 203426
+
 public class Main {
 
     public static void main(String[] args) {
